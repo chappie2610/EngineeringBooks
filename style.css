@@ -1,0 +1,30 @@
+body{
+    background: rgb(73, 70, 70);
+    color: antiquewhite;
+}
+
+.heading h1{
+    text-align: center;
+}
+.main_box{
+    height: 300px;
+    width: 800px;
+    border: rgb(235, 227, 227) solid 3px;
+    margin: auto;
+    margin-top: 50px;
+}
+#EngiBox{
+    height: 250px;
+    width: 170px;
+    border: rgb(184, 175, 175) solid 2px;
+    margin: 20px 12px;
+    float: left;
+    text-align: center;
+}
+#EngiBox h2{
+    margin-top: 10px;
+}
+#EngiBox:hover{
+    background-color: rgb(100, 97, 97);
+    color: rgb(182, 177, 170);
+}
